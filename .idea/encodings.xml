@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Data/BankAccs/AccountKey.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Data/BankAccs/BankAccount.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Data/BankAccs/CreditAcc.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Data/BankAccs/DebitAcc.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Data/BankAccs/DepositAcc.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Data/Client.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Data/ClientKey.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Data/ClientsRepository.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Data/Repository.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Exceptions/ErrorMoneyException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/HibernateUtil.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/View/ActionsWindow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/View/AddAccWindow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/View/AutorizWindow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/View/ChoseAccWindow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/View/EntryToBankWindow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/View/MainMenuWindow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/View/ProfileWindow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/View/RegisterWindow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/View/TransferMoneyWindow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/View/Window.java" charset="windows-1251" />
+  </component>
+</project>

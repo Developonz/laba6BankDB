@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "org.hibernate:hibernate-core:5.4.24.Final"
+    implementation 'org.xerial:sqlite-jdbc:3.44.1.0'
+    implementation group: 'com.github.gwenn', name: 'sqlite-dialect', version: '0.1.0'
+
+}

@@ -1,0 +1,1 @@
+package org.example;import org.example.Exceptions.ErrorMoneyException;import org.example.View.MainMenuWindow;public class Main {    public static void main(String[] args) throws ErrorMoneyException {        HibernateUtil.getSession();        new MainMenuWindow();    }}
