@@ -99,7 +99,6 @@ public class ClientsRepository implements Repository {
 
     @Override
     public int getCount() {
-        uploadData();
         return clients.size();
     }
 
@@ -192,5 +191,4 @@ public class ClientsRepository implements Repository {
             e.printStackTrace();
         }
     }
-
 }
